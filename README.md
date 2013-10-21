@@ -1,2 +1,4 @@
-slides-prototyping-browser
-==========================
+presentation
+============
+
+Base for Antistatique presentations
