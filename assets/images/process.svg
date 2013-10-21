@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<g>
+	<polygon fill="#D40B6B" points="383.746,93.547 398.253,104.001 383.746,114.453 	"/>
+	<path fill="#D40B6B" d="M603.01,188.161c-53.683-53.682-124.458-84.055-200.054-86.049l2.622,1.89l-2.918,2.102
+		c74.639,1.921,144.524,31.89,197.521,84.886c54.806,54.806,84.988,127.674,84.988,205.181s-30.183,150.375-84.988,205.182
+		C545.375,656.158,472.508,686.342,395,686.342s-150.375-30.184-205.182-84.989c-54.806-54.807-84.989-127.675-84.989-205.182
+		s29.972-150.375,84.779-205.181C241.913,138.685,311,108.829,384,106.21v-4.002c-74,2.62-144.16,32.893-197.221,85.953
+		c-55.562,55.562-86.055,129.434-86.055,208.01s30.652,152.449,86.213,208.01s129.461,86.161,208.037,86.161
+		s152.461-30.6,208.022-86.161c55.562-55.562,86.167-129.435,86.167-208.01S658.571,243.722,603.01,188.161z"/>
+	<g>
+		<circle fill="#D40B6B" cx="499.384" cy="120.762" r="65.759"/>
+		<text transform="matrix(1 0 0 1 461.8262 125.9585)" fill="#FFFFFF" font-family="'Georgia-Italic'" font-size="19.1298">Discover</text>
+	</g>
+	<g>
+		<circle fill="#D40B6B" cx="640.373" cy="243.226" r="65.759"/>
+		<text transform="matrix(1 0 0 1 620.8145 248.4219)" fill="#FFFFFF" font-family="'Georgia-Italic'" font-size="19.1298">Plan</text>
+	</g>
+	<g>
+		<circle fill="#D40B6B" cx="681.937" cy="441.226" r="65.759"/>
+		<text transform="matrix(1 0 0 1 654.0918 446.4219)" fill="#FFFFFF" font-family="'Georgia-Italic'" font-size="19.1298">Sketch</text>
+	</g>
+	<g>
+		<circle fill="#D40B6B" cx="598.863" cy="614.669" r="65.759"/>
+		<text transform="matrix(1 0 0 1 566.7646 619.8652)" fill="#FFFFFF" font-family="'Georgia-Italic'" font-size="19.1298">Discuss</text>
+	</g>
+	<g>
+		<circle fill="#D40B6B" cx="433.513" cy="680.875" r="65.759"/>
+		<text transform="matrix(1 0 0 1 391.0791 686.0713)" fill="#FFFFFF" font-family="'Georgia-Italic'" font-size="19.1298">Prototype</text>
+	</g>
+	<g>
+		<circle fill="#D40B6B" cx="235.966" cy="641.18" r="65.759"/>
+		<text transform="matrix(1 0 0 1 218.2129 646.375)" fill="#FFFFFF" font-family="'Georgia-Italic'" font-size="19.1298">Test</text>
+	</g>
+	<g>
+		<circle fill="#D40B6B" cx="119.06" cy="491.968" r="65.759"/>
+		<text transform="matrix(1 0 0 1 84.9634 497.1631)" fill="#FFFFFF" font-family="'Georgia-Italic'" font-size="19.1298">Identity</text>
+	</g>
+	<g>
+		<circle fill="#D40B6B" cx="118.564" cy="303.762" r="65.759"/>
+		<text transform="matrix(1 0 0 1 83.9575 308.958)" fill="#FFFFFF" font-family="'Georgia-Italic'" font-size="19.1298">Develop</text>
+	</g>
+	<g>
+		<circle fill="#D40B6B" cx="236.183" cy="150.863" r="65.759"/>
+		<text transform="matrix(1 0 0 1 204.1909 156.0605)" fill="#FFFFFF" font-family="'Georgia-Italic'" font-size="19.1298">Launch</text>
+	</g>
+</g>
+</svg>

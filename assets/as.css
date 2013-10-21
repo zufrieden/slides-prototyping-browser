@@ -137,6 +137,17 @@ body {
   }
 
 
+/*********************************************
+ * FRAGMENT HIGHLIGHT
+ *********************************************/
+
+.reveal .slides section .fragment.highlight-pink {
+  opacity: 1;
+}
+  .reveal .slides section .fragment.highlight-pink.visible {
+    color: #D40B6B;
+  }
+
  
 .reveal .controls div.navigate-left,
 .reveal .controls div.navigate-left.enabled {

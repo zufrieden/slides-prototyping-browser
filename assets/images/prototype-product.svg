@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="960px" height="560px" viewBox="0 0 960 560" enable-background="new 0 0 960 560" xml:space="preserve">
+<g>
+	<g>
+		<circle fill="#D40B6B" cx="174.163" cy="286.52" r="137.5"/>
+		<text transform="matrix(1 0 0 1 71.1621 299.1299)" fill="#FFFFFF" font-family="'Georgia-Italic'" font-size="46.4332">Prototype</text>
+	</g>
+	<g>
+		<circle fill="#D40B6B" cx="785.837" cy="286.52" r="137.5"/>
+		<text transform="matrix(1 0 0 1 702.7988 299.1299)" fill="#FFFFFF" font-family="'Georgia-Italic'" font-size="46.4332">Product</text>
+	</g>
+</g>
+<g>
+	<polygon fill="#D40B6B" points="579,279.292 604.582,294.062 579,308.831 	"/>
+	<line fill="none" stroke="#D40B6B" stroke-width="7" stroke-miterlimit="10" x1="356" y1="294.5" x2="579" y2="294.5"/>
+</g>
+</svg>
