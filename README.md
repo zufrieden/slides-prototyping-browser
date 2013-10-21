@@ -1,4 +1,4 @@
-presentation
-============
+Prototyping in the browser
+==========================
 
-Base for Antistatique presentations
+Slides for Softshake talk about prototyping in the browser
